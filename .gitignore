@@ -1,0 +1,14 @@
+**/node_modules
+.DS_Store
+
+.umi
+.umi-production
+build
+.eslintcache
+deploy.js
+dist.zip
+yarn-error.log
+
+**/.vs
+/dist
+src/pages/Home/Home - Copy-1.jsx
